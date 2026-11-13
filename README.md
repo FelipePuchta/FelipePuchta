@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá! Eu sou o Felipe de Paula Puchta 👋</h1>
 
-<!--
-**FelipePuchta/FelipePuchta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>Engenharia de Dados | Machine Learning | Inteligência Artificial</h3>
 
-Here are some ideas to get you started:
+  <p>
+    Graduando em Inteligência Artificial pela Universidade Federal de Jataí (UFJ).<br>
+    Tenho interesse em transformar dados em informações que apoiem decisões.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/felipe-de-paula-puchta-16b44a3b2">
+    LinkedIn
+  </a>
+   • 
+  <a href="mailto:felipe.puchta.eng@gmail.com">
+    E-mail
+  </a>
+</div>
+
+<div>
+  <h2>👨‍💻 Sobre mim</h2>
+
+  <ul>
+    <li>Estudante de Inteligência Artificial na UFJ, com conclusão prevista para dezembro de 2029.</li>
+    <li>Estudo fundamentos de aprendizado de máquina.</li>
+    <li>Busco aprimorar minhas habilidades em engenharia e ciência de dados.</li>
+  </ul>
